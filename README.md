@@ -10,4 +10,4 @@ Here I will put my projects, they were motivated by Imersão Dev from [Alura](ht
 
 - Average calculator: 
 
-https://codepen.io/rafaelsilveira27/full/ExbWNWK
+  https://codepen.io/rafaelsilveira27/full/ExbWNWK
