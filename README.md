@@ -5,3 +5,5 @@
 - I'm currently learning html/css!
 
 ### My Projects: 
+
+- Here I will put my projects, they were motivated by Imersão Dev from [Alura](https://www.alura.com.br/)
