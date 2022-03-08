@@ -2,7 +2,7 @@
 
 - Programming Languages : Python and JavaScript
 - Languages : Portuguese and English (advanced)
-- I'm currently learning html/css!
+- I'm currently learning oriented object programming!
 
 ### My Projects: 
 
