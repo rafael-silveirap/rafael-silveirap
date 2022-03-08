@@ -10,6 +10,6 @@ Here I will put my projects made in HTML, CSS and JavaScript, they were motivate
 
 - 📝 Average calculator: This is the first project, an average calculator
 
-  ![Preview of the program](https://media.discordapp.net/attachments/859912057163874315/940929542611157012/unknown.png?width=1338&height=594)
+  ![Preview of the program](https://media.discordapp.net/attachments/859912057163874315/950795877344239626/unknown.png?width=1371&height=594)
 
   https://codepen.io/rafaelsilveira27/full/ExbWNWK
