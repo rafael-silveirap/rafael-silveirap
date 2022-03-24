@@ -26,4 +26,9 @@ Here I will put my projects made in HTML, CSS and JavaScript, they were motivate
 
   ![Preview of the program](https://images-ext-2.discordapp.net/external/91KDXpBR4e_vGf2Y5uqsUJAWdsWKL6ntB1Z8NBt3xOY/%3Fversion%3D1646882425/https/shots.codepen.io/rafaelsilveira27/pen/rNYXadJ-800.jpg)
   
+- 🎵 "Covers": This project save the picture of your favorite songs to you remember.
+
+  https://codepen.io/rafaelsilveira27/full/WNdvPLr
+  
+ ![Preview of the program](https://media.discordapp.net/attachments/859912057163874315/956576358862049340/unknown.png?width=1152&height=594)
   
