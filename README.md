@@ -18,13 +18,13 @@ Here I will put my projects made in HTML, CSS and JavaScript, they were motivate
 
   https://codepen.io/rafaelsilveira27/full/dyZEEmN
 
-  ![Preview of the program](https://images-ext-1.discordapp.net/external/8UjrpgSEwwaPQvNFJ1gzD7bYmkgHrhF50J_kuyWXsX0/%3Fversion%3D1646784428/https/shots.codepen.io/rafaelsilveira27/pen/dyZEEmN-800.jpg)
+  ![Preview of the program](https://media.discordapp.net/attachments/859912057163874315/956578208340389888/unknown.png?width=1364&height=594)
   
 - 🧙 Mentalist: In this third project, you have to find out the secret number to 0 from 10, you have three attempts.
 
   https://codepen.io/rafaelsilveira27/full/rNYXadJ
 
-  ![Preview of the program](https://images-ext-2.discordapp.net/external/91KDXpBR4e_vGf2Y5uqsUJAWdsWKL6ntB1Z8NBt3xOY/%3Fversion%3D1646882425/https/shots.codepen.io/rafaelsilveira27/pen/rNYXadJ-800.jpg)
+  ![Preview of the program](https://media.discordapp.net/attachments/859912057163874315/956578403488763914/unknown.png?width=1368&height=594)
   
 - 🎵 "Covers": This project save the picture of your favorite songs to you remember.
 
