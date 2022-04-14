@@ -1,9 +1,15 @@
 # 👋 Hi there
 
-I'm Rafael, I'm 20 years old and I started programming as a hobby, I really like math, physics, games and simulations in general.
+I'm Rafael, I'm 20 years old and I started programming as a hobby, I really like math, physics and simulations in general.
 
 - 🤔 looking for help getting a job
 - 🇧🇷 Brasil!
+
+## Interests
+
+-  🧑‍🔬 Data Science
+-  🤖 Machine Learning and Artificial Intelligence
+-  📟 Computer Vision
 
 ## 🌱 What am I currently learning?
 
