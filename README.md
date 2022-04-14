@@ -1,40 +1,28 @@
-### Hi i'm Rafael ✌😎
+# 👋 Hi there
 
-- Programming Languages : Python and JavaScript
-- Languages : Portuguese and English (advanced)
-- I'm currently learning oriented object programming!
+I'm Rafael 🦊, I'm 20 years old and I started programming as a hobby, I really like math, physics, games and simulations in general. I make native programs, with frameworks, and websites.
 
-### My Projects: 
+- 🤔 looking for help getting a job
+- 🇧🇷 Brasil!
 
-Here I will put my projects made in HTML, CSS and JavaScript, they were motivated by Imersão Dev from [Alura](https://www.alura.com.br/)
+## 🌱 What am I currently learning?
 
-- 📝 Average calculator: This is the first project, an average calculator.
+- Computer Vision and Data Science
+- Improving my skills in Front-end
 
-  https://codepen.io/rafaelsilveira27/full/ExbWNWK
+## ⚡ My top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-silveirap&layout=compact&theme=synthwave&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=rafael-silveirap&show_icons=true&locale=en&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![Preview of the program](https://media.discordapp.net/attachments/859912057163874315/950795877344239626/unknown.png?width=1371&height=594)
+# 🚀 My Skills
 
-- 💰 Currency converter: This is the second project.
+## 📚 Languages
+[![Javascript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/PYTHON-f7d367?style=for-the-badge&logo=python)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-  https://codepen.io/rafaelsilveira27/full/dyZEEmN
 
-  ![Preview of the program](https://media.discordapp.net/attachments/859912057163874315/956578208340389888/unknown.png?width=1364&height=594)
-  
-- 🧙 Mentalist: In this third project, you have to find out the secret number to 0 from 10, you have three attempts.
-
-  https://codepen.io/rafaelsilveira27/full/rNYXadJ
-
-  ![Preview of the program](https://media.discordapp.net/attachments/859912057163874315/956578403488763914/unknown.png?width=1368&height=594)
-  
-- 🎵 "Covers": This project save the picture of your favorite songs to you remember.
-
-  https://codepen.io/rafaelsilveira27/full/WNdvPLr
-  
-  ![Preview of the program](https://media.discordapp.net/attachments/859912057163874315/956576757715193916/unknown.png?width=1388&height=594)
-  
-- 🎲 Leaderboard: In this project you can save the points of your friends of a game that you are playing together.
-
-  https://codepen.io/rafaelsilveira27/full/VwyaPEq
-  
-  ![Preview of the program](https://media.discordapp.net/attachments/859912057163874315/956577962646470666/unknown.png?width=1394&height=594)
-  
+## 👀 Front-end
+[![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
+[![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript)](https://www.w3schools.com/whatis/whatis_js.asp)
