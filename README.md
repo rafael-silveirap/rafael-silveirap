@@ -36,3 +36,5 @@ I'm Rafael, I'm 20 years old and I started programming as a hobby, I really like
 - <a href='https://github.com/rafael-silveirap/first-projects--js-html-css-' target="_blank">First frond-end projects</a>
 - <a href='https://github.com/rafael-silveirap/programacao-computadores-2periodo' target="_blank">Algorithms in Python</a>
 - <a href='https://github.com/rafael-silveirap/first_project_data_analysis' target="_blank">First Data Analysis projects</a>
+- <a href='https://github.com/rafael-silveirap/netflix-clone' target="_blank">Clone Netflix website</a>
+- <a href='https://github.com/rafael-silveirap/titanic_analysis' target="_blank">Titanic Data Analysis</a>
