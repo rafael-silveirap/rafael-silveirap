@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Rafael, I'm 20 years old and I like math and physics.
+I'm Rafael, I'm 21 years old and I like math and physics.
 
 - 🤔 looking for help getting a job
 - 🇧🇷 Brasil!
